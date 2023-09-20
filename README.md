@@ -1,2 +1,5 @@
-# 2023-UBCO-COSC111-02
-Examples for COSC 111-002 2023 WT2
+# Examples
+
+Examples for COSC 111-002 for Winter 2023 T1
+
+
